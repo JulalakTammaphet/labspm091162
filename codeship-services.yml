@@ -2,3 +2,5 @@ calculator:
   build:
     image: calculator
     dockerfile: Dockerfile
+     environment: 4fb812b1-9c9e-4b9e-ac71-bb2d93276aca
+    
